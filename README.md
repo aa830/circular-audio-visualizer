@@ -15,7 +15,7 @@
 
 - Linux (Tested ✔️)
 - Windows (Not Tested ❌)
-- MacOS (Not Tested ❌)
+- MacOS (Tested ✔️)
 
 ## :link: Dependencies
 
